@@ -10,7 +10,7 @@ class Db{
     private $host  = 'localhost';
     private $db    = 'instagram';
     private $user  = 'phpmyadmin';
-    private $pass  = 'Q1w2e3r4t5!';
+    private $pass  = '';
 
     private $num_of_rows;
 
